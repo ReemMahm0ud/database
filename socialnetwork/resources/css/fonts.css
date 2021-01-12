@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'CronosPro';
+    src: url('fonts/cronospro/cronospro-regular.eot');
+    src: url('fonts/cronospro/cronospro-regular.woff2') format('woff2'), url('fonts/cronospro/cronospro-regular.woff') format('woff'), url('fonts/cronospro/cronospro-regular.ttf') format('truetype'), url('fonts/cronospro/cronospro-regular.svg#fonts/cronospro/cronospro-regular') format('svg'), url('fonts/cronospro/cronospro-regular.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+/* Fontin */
+
+
+/* A font by Jos Buivenga (exljbris) -> www.exljbris.com */
+
+
+/* All Rights Reserved */
+
+@font-face {
+    font-family: 'FontinBold';
+    src: url('fonts/fontin/fontin-bold.eot');
+    src: url('fonts/fontin/fontin-bold.woff2') format('woff2'), url('fonts/fontin/fontin-bold.woff') format('woff'), url('fonts/fontin/fontin-bold.ttf') format('truetype'), url('fonts/fontin/fontin-bold.svg#fonts/fontin/fontin-bold') format('svg'), url('fonts/fontin/fontin-bold.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FontinItalic';
+    src: url('fonts/fontin/fontin-italic.eot');
+    src: url('fonts/fontin/fontin-italic.woff2') format('woff2'), url('fonts/fontin/fontin-italic.woff') format('woff'), url('fonts/fontin/fontin-italic.ttf') format('truetype'), url('fonts/fontin/fontin-italic.svg#fonts/fontin/fontin-italic') format('svg'), url('fonts/fontin/fontin-italic.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Fontin';
+    src: url('fonts/fontin/fontin-regular.eot');
+    src: url('fonts/fontin/fontin-regular.woff2') format('woff2'), url('fonts/fontin/fontin-regular.woff') format('woff'), url('fonts/fontin/fontin-regular.ttf') format('truetype'), url('fonts/fontin/fontin-regular.svg#fonts/fontin/fontin-regular') format('svg'), url('fonts/fontin/fontin-regular.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Fontin SmallCaps';
+    src: url('fonts/fontin/fontin-smallcaps.eot');
+    src: url('fonts/fontin/fontin-smallcaps.woff2') format('woff2'), url('fonts/fontin/fontin-smallcaps.woff') format('woff'), url('fonts/fontin/fontin-smallcaps.ttf') format('truetype'), url('fonts/fontin/fontin-smallcaps.svg#fonts/fontin/fontin-smallcaps') format('svg'), url('fonts/fontin/fontin-smallcaps.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}

@@ -1,0 +1,33 @@
+<?php
+
+session_start();
+
+?>
+
+<html>
+    <head>
+        <title>chooseDepartment</title>
+        <h1>Department</h1>
+
+
+    </head>
+    <body>
+        <?php
+        $_user_name=	$_session["username"];
+        echo'Welcome '.$_user_name . <br>;
+
+        $sql="SELECT * FROM department ";
+
+        if ($conn->query($sql) === TRUE){
+
+        }
+
+        <select fbsql_list_fields 
+        ?>
+        <form>
+            Choose your department
+            <input type="radio" name="department" value="">
+            <br><br>
+        </form>
+    </body>
+</html>
